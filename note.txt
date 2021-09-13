@@ -1,0 +1,63 @@
+1)the concept of datatype
+
+        javascript Strings
+            let myName="pradeep dhakal"
+            let myname='dhakal Pradeep'
+
+        javascript Numbers
+            js has only one type of numbers:
+            number can be wrtten with , or without decimal 
+
+        java script Booleans
+            bolean has only two value
+            1) true 2) false
+                let x = 5;
+                let y = 5;
+                let z = 6;
+                (x == y)       // Returns true
+                (x == z)       // Returns false
+
+        java script Arrays
+            javascript arrays are written square brackets
+            arrays itema are seprated by commas.
+
+            example:    const nmaes=["pradeep","sanu", "hari", "etc"];
+
+        javascript object
+            javascript objects are written with curly braces {}
+
+            example:
+            const person={fname:"pradeep". lname:"Dhakal",age:20};
+
+
+
+
+2)  javascript FUnctions:
+        js function is block of code designing to perform a particular task. A js function is executed when "something" invokes it (call it).
+
+            function myFunction(p1, p2) {
+                return p1 * p2;   // The function returns the product of p1 and p2
+            }
+
+
+        js function syntax:
+            a javascript function is defined with the function keyword, followed by 
+            name, followed by parantheses
+
+            function name(parameter1, parameter2, parameter3, parametern){
+                //code to be executed   
+            }
+
+        javascript function return
+
+            when javascript reaches a return statement, the function will stop executing.
+
+
+
+
+2)  javascriopt Strings:
+        let name="pradeep";
+
+    
+
+    string search baki
