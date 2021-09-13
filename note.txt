@@ -55,9 +55,28 @@
 
 
 
-2)  javascriopt Strings:
+3)  javascript Strings:
         let name="pradeep";
 
-    
+4)  java script string search
+        js methods for string searching
+        String.indexOf()
+        String.lastIndexOf()
+        String.startWith()
+        String.endsWith()
 
-    string search baki
+        The indexOf() method returns the index of (the position of) the first occurrence of a specified text in a strin
+
+        The lastIndexOf() method returns the index of the last occurrence of a specified text in a string:
+
+        Both indexOf(), and lastIndexOf() return -1 if the text is not found:
+
+        The search() method searches a string for a specified value and returns the position of the match:
+
+
+
+
+    
+5) javascript numbers are always 64-bit floating Point 
+
+number method baki
