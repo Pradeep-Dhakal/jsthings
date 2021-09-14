@@ -79,4 +79,77 @@
     
 5) javascript numbers are always 64-bit floating Point 
 
-number method baki
+6)  javascript arrays 
+        javascript arrays are used to store multiple values in a single variable
+        eg: const name=["hari","ram","shym"];
+
+    ? is an array?
+    an array is a special variable, which can hold more than one value at a time
+
+    we can create array using the javascript keyword new
+
+    eg: const names=new array("hari","ram","shym");
+
+    1) array sort
+
+    the sort() method shorts an array alphabetically 
+
+    eg: const names=["name1","name2","name3"]'
+    name.sort();
+
+    2)
+    revarsing an array
+    the reverse() method reverse the elements in the array. 
+     eg: const names=["name1","name2","name3"]'
+    name.reverse);
+
+    3) java script arary const
+      eg:   const cars=["volvo","BMW","saab"];
+
+7) java script datae object
+
+    by default javascript will use the browser's time zone and display a date as a full text sting
+
+    there are 4 ways to create a new data object;
+
+    new Date()
+            new Date(year, month, day, hours, minutes, seconds, milliseconds)
+            new Date(milliseconds)
+            new Date(date string)
+8) javascript math object
+    unlike other object math object has no constructor 
+    the math object is static
+
+    the syntax of math property is : Math.property
+
+    Math.E        // returns Euler's number
+    Math.PI       // returns PI
+    Math.SQRT2    // returns the square root of 2
+    Math.SQRT1_2  // returns the square root of 1/2
+    Math.LN2      // returns the natural logarithm of 2
+    Math.LN10     // returns the natural logarithm of 10
+    Math.LOG2E    // returns base 2 logarithm of E
+    Math.LOG10E   // returns base 10 logarithm of
+
+
+9) jAVA sets
+    a javascrtpt sets is a collection of a unique value each value can only occure in a set.
+
+    how to create set:
+        You can create a JavaScript Set by:
+
+            Passing an Array to new Set()
+            Create a new Set and use add() to add values
+            Create a new Set and use add() to add variables
+
+
+
+
+    
+
+ 
+
+
+
+
+    
