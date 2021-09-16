@@ -1,0 +1,27 @@
+div{
+    border: 5px;
+    padding: 20px;
+}
+button{
+    background-color: antiquewhite;
+    height: 50px;
+    width: 70px;
+    margin: 5px;
+    border-radius: 5px;
+    border-color: aqua;
+    font-size: 20px;
+}
+#result{
+    border-color: brown;
+    height: 55px;
+    width: 316px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: rgb(255, 217, 0);
+
+}
+.symbol{
+    background-color: cyan;
+}
