@@ -1,11 +1,8 @@
 const myName = document.querySelector('#name');
 const btn = document.querySelector('#btn');
 
-const showname = () => {
-
-    myName.innerHTML = "my name is pradeep";
-
+function abcd(){
+   myName.innerHTML="pradeep";
 }
 
-btn.addEventListner('click', showname);
-
+btn.addEventListener('click',abcd)
